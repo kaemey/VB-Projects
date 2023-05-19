@@ -1,0 +1,15 @@
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Release\Meepokey.exe.config
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Release\Meepokey.exe.manifest
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Release\Meepokey.application
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Release\Meepokey.exe
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Release\Meepokey.pdb
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Release\Meepokey.xml
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Release\Meepokey.Form1.resources
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Release\Meepokey.Resources.resources
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Release\Meepokey.TrustInfo.xml
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Release\Meepokey.exe.manifest
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Release\Meepokey.application
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Release\Meepokey.exe
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Release\Meepokey.xml
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Release\Meepokey.pdb

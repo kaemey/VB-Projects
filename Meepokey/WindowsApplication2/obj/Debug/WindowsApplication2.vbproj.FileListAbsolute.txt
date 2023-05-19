@@ -1,0 +1,26 @@
+C:\Users\Максим\AppData\Local\Temporary Projects\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\Максим\AppData\Local\Temporary Projects\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Максим\AppData\Local\Temporary Projects\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Максим\AppData\Local\Temporary Projects\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Максим\AppData\Local\Temporary Projects\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\Максим\AppData\Local\Temporary Projects\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\Максим\AppData\Local\Temporary Projects\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Максим\AppData\Local\Temporary Projects\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\Максим\AppData\Local\Temporary Projects\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\Максим\AppData\Local\Temporary Projects\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Meepokey.exe.config
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Meepokey.Form1.resources
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Meepokey.exe
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Meepokey.pdb
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Meepokey.xml
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Meepokey.Resources.resources
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Meepokey.exe
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Meepokey.xml
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Meepokey.pdb
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Meepokey.exe.manifest
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Meepokey.application
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Meepokey.TrustInfo.xml
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Meepokey.exe.manifest
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Meepokey.application
