@@ -1,0 +1,13 @@
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsApplication1\bin\Release\WindowsApplication1.exe
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsApplication1\bin\Release\WindowsApplication1.pdb
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsApplication1\bin\Release\WindowsApplication1.xml
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsApplication1\bin\Release\ru\WindowsApplication1.resources.dll
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsApplication1\obj\Release\WindowsApplication1.Form1.resources
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsApplication1\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsApplication1\obj\Release\WindowsApplication1.Form1.ru.resources
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsApplication1\obj\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsApplication1\obj\Release\ru\WindowsApplication1.resources.dll
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsApplication1\obj\Release\WindowsApplication1.exe
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsApplication1\obj\Release\WindowsApplication1.xml
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsApplication1\obj\Release\WindowsApplication1.pdb

@@ -1,0 +1,13 @@
+C:\Users\PC\Documents\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Release\ResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication1.Form1.resources
+C:\Users\PC\Documents\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication1.Form1.ru.resources
+C:\Users\PC\Documents\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\bin\Release\Clicker#.exe
+C:\Users\PC\Documents\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\bin\Release\Clicker#.pdb
+C:\Users\PC\Documents\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\bin\Release\Clicker#.xml
+C:\Users\PC\Documents\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\bin\Release\ru\Clicker#.resources.dll
+C:\Users\PC\Documents\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Release\ru\Clicker#.resources.dll
+C:\Users\PC\Documents\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Release\Clicker#.exe
+C:\Users\PC\Documents\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Release\Clicker#.xml
+C:\Users\PC\Documents\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Release\Clicker#.pdb
