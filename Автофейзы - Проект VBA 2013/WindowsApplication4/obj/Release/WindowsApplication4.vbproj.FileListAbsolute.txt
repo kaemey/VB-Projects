@@ -1,0 +1,10 @@
+c:\users\макс\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Release\WindowsApplication4.Form1.resources
+c:\users\макс\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Release\WindowsApplication4.Resources.resources
+c:\users\макс\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Release\WindowsApplication4.vbproj.GenerateResource.Cache
+c:\users\макс\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\bin\Release\Автофейзы.exe.config
+c:\users\макс\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\bin\Release\Автофейзы.exe
+c:\users\макс\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\bin\Release\Автофейзы.pdb
+c:\users\макс\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\bin\Release\Автофейзы.xml
+c:\users\макс\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Release\Автофейзы.exe
+c:\users\макс\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Release\Автофейзы.xml
+c:\users\макс\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Release\Автофейзы.pdb

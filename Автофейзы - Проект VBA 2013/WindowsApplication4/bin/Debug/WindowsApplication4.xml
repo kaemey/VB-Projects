@@ -1,0 +1,28 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WindowsApplication4
+</name>
+</assembly>
+<members>
+<member name="P:WindowsApplication4.My.Resources.Resources.ResourceManager">
+	<summary>
+  Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+</summary>
+</member><member name="P:WindowsApplication4.My.Resources.Resources.Culture">
+	<summary>
+  Перезаписывает свойство CurrentUICulture текущего потока для всех
+  обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+</summary>
+</member><member name="P:WindowsApplication4.My.Resources.Resources.b22088d76e74b7ad50cf69914ea6b81cbd8aadb9_full">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="T:WindowsApplication4.My.Resources.Resources">
+	<summary>
+  Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+</summary>
+</member>
+</members>
+</doc>
